@@ -7,6 +7,7 @@ This extension builds on top of the previous work of:
 
 * @noirbizarre on https://github.com/etalab/ckanext-sentry
 * @rshk on https://github.com/opendatatrentino/ckanext-sentry
+* @maxious on https://github.com/datagovau/ckanext-sentry
 
 Installation
 ------------
@@ -17,7 +18,7 @@ To install the extension, activate your virtualenv and run::
 
 Alternative, you can install a development version with::
 
-    git clone https://github.com/okfn/ckanext-sentry.git
+    git clone https://github.com/fjelltopp/ckanext-sentry.git
     cd ckanext-sentry
     python setup.py develop
     pip install -r requirements.txt
